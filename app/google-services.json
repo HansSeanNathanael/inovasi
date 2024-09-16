@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410087903761",
+    "project_id": "inovasi-c0f27",
+    "storage_bucket": "inovasi-c0f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410087903761:android:8f34c503c98a849aaa97b0",
+        "android_client_info": {
+          "package_name": "com.example.inovasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu63SEBnlsXjie6RxUX86q0o-Z42W1_w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Inovasi</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="authentication">Authentication</string>
+
+    <string name="pending">Pending</string>
+    <string name="on_progress">On Progress</string>
+    <string name="done">Done</string>
+    <string name="view">View</string>
+
+    <string name="name">Name</string>
+    <string name="edit">Edit</string>
+    <string name="reset_password">Change Password</string>
+    <string name="edit_name">Change Name</string>
+    <string name="edit_password">Change Password</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_add_new_task">AddNewTaskActivity</string>
+    <string name="title_activity_inspect_task">InspectTaskActivity</string>
+    <string name="title_activity_task_list">TaskListActivity</string>
+    <string name="title_activity_view_phoyo">ViewPhoyoActivity</string>
+</resources>
